@@ -1,7 +1,11 @@
 ---
-title: 关于站点
+title: 关于我
 ---
 
-Valaxy + valaxy-theme-yun Demo Site
+一个废物 oier。
 
-- Default Theme: [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/)
+喜欢下象棋，会下一点点围棋。
+
+喜欢看动漫，是个二次元。
+
+喜欢玩音游。

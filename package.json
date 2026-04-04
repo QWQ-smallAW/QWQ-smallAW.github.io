@@ -1,5 +1,5 @@
 {
-  "name": "yuanlin-blog",
+  "name": "valaxy-test-blog",
   "type": "module",
   "version": "0.0.0",
   "private": true,
@@ -12,10 +12,11 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "valaxy": "0.28.4",
-    "valaxy-theme-yun": "0.28.4"
+    "valaxy": "0.25.10",
+    "valaxy-addon-waline": "^0.2.1",
+    "valaxy-theme-yun": "0.25.10"
   },
   "devDependencies": {
-    "typescript": "^5.9.3"
+    "typescript": "^5.8.3"
   }
 }

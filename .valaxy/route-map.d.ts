@@ -97,9 +97,30 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/gouzaodasai/': RouteRecordInfo<
+      '/posts/gouzaodasai/',
+      '/posts/gouzaodasai',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/hello-valaxy': RouteRecordInfo<
       '/posts/hello-valaxy',
       '/posts/hello-valaxy',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/vmware/': RouteRecordInfo<
+      '/posts/vmware/',
+      '/posts/vmware',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/wsl1/': RouteRecordInfo<
+      '/posts/wsl1/',
+      '/posts/wsl1',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -184,9 +205,27 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
+    'pages/posts/gouzaodasai/index.md': {
+      routes:
+        | '/posts/gouzaodasai/'
+      views:
+        | never
+    }
     'pages/posts/hello-valaxy.md': {
       routes:
         | '/posts/hello-valaxy'
+      views:
+        | never
+    }
+    'pages/posts/vmware/index.md': {
+      routes:
+        | '/posts/vmware/'
+      views:
+        | never
+    }
+    'pages/posts/wsl1/index.md': {
+      routes:
+        | '/posts/wsl1/'
       views:
         | never
     }

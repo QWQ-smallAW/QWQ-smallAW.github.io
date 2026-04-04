@@ -5,16 +5,11 @@
     "lib": ["DOM", "ESNext"],
     "baseUrl": ".",
     "module": "ESNext",
-    "moduleResolution": "bundler",
+    "moduleResolution": "node",
     "paths": {
       "~/*": ["./*"]
     },
     "resolveJsonModule": true,
-    "types": [
-      "vite/client",
-      "valaxy/client",
-      "vite-plugin-vue-layouts-next/client"
-    ],
     "strict": true,
     "strictNullChecks": true,
     "noUnusedLocals": true,
