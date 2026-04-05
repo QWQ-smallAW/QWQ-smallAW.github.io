@@ -63,7 +63,7 @@ export default defineSiteConfig({
     },
     {
       name: '哔哩哔哩',
-      link: 'https://space.bilibili.com/180357698',
+      link: 'https://space.bilibili.com/1803576984',
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
