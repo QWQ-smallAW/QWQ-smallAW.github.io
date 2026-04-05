@@ -104,13 +104,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/hello-valaxy': RouteRecordInfo<
-      '/posts/hello-valaxy',
-      '/posts/hello-valaxy',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/posts/vmware/': RouteRecordInfo<
       '/posts/vmware/',
       '/posts/vmware',
@@ -145,13 +138,13 @@ declare module 'vue-router/auto-routes' {
    * @internal
    */
   export interface _RouteFileInfoMap {
-    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_504066cbfad75f6716cfc76600226f28/node_modules/valaxy-theme-yun/pages/index.vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_b8aac48cfe0a00ef180c350c958dd5a3/node_modules/valaxy-theme-yun/pages/index.vue': {
       routes:
         | '/'
       views:
         | never
     }
-    'node_modules/.pnpm/valaxy@0.28.4_@babel+parser_4dc04e9ae0ec690b906c470e58d567fe/node_modules/valaxy/client/pages/[...path].vue': {
+    'node_modules/.pnpm/valaxy@0.28.4_@babel+parser_a3275d8000af2a99eec7439dea80efcf/node_modules/valaxy/client/pages/[...path].vue': {
       routes:
         | '/[...path]'
       views:
@@ -193,13 +186,13 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_504066cbfad75f6716cfc76600226f28/node_modules/valaxy-theme-yun/pages/page/[page].vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_b8aac48cfe0a00ef180c350c958dd5a3/node_modules/valaxy-theme-yun/pages/page/[page].vue': {
       routes:
         | '/page/[page]'
       views:
         | never
     }
-    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_504066cbfad75f6716cfc76600226f28/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_b8aac48cfe0a00ef180c350c958dd5a3/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
       routes:
         | '/posts/'
       views:
@@ -208,12 +201,6 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/gouzaodasai/index.md': {
       routes:
         | '/posts/gouzaodasai/'
-      views:
-        | never
-    }
-    'pages/posts/hello-valaxy.md': {
-      routes:
-        | '/posts/hello-valaxy'
       views:
         | never
     }

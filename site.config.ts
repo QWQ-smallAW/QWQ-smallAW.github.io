@@ -9,22 +9,22 @@ export default defineSiteConfig({
   subtitle: '',
   author: {
     name: '渊林',
-    avatar: 'https://s21.ax1x.com/2025/07/23/pVGakwt.jpg',
+    avatar: 'https://s41.ax1x.com/2026/04/05/petoqSI.jpg',
     status:
     {
-      message: '放假ing',
-      emoji: '😁',
+      message: '不想上学',
+      emoji: '😒',
     }
   },
   description: '渊林の小站 - 记录生活点滴',
-  favicon: './favicon.ico',
+  favicon: "./favicon.ico",
   social: [
-    {
-      name: 'RSS',
-      link: '/atom.xml',
-      icon: 'i-ri-rss-line',
-      color: 'orange',
-    },
+    // {
+    //   name: 'RSS',
+    //   link: '/atom.xml',
+    //   icon: 'i-ri-rss-line',
+    //   color: 'orange',
+    // },
     // {
     //   name: 'QQ 群 1050458482',
     //   link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
