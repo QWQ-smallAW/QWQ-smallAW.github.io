@@ -104,6 +104,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/noip2025qwq/': RouteRecordInfo<
+      '/posts/noip2025qwq/',
+      '/posts/noip2025qwq',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/vmware/': RouteRecordInfo<
       '/posts/vmware/',
       '/posts/vmware',
@@ -201,6 +208,12 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/gouzaodasai/index.md': {
       routes:
         | '/posts/gouzaodasai/'
+      views:
+        | never
+    }
+    'pages/posts/noip2025qwq/index.md': {
+      routes:
+        | '/posts/noip2025qwq/'
       views:
         | never
     }

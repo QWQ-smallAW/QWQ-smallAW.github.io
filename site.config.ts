@@ -9,7 +9,7 @@ export default defineSiteConfig({
   subtitle: '',
   author: {
     name: '渊林',
-    avatar: 'https://s41.ax1x.com/2026/04/05/petoqSI.jpg',
+    avatar: 'https://image.smallaw.us.ci/img1/b_c92fe7c5e99e7b2c5e79833fec5019fc.jpg',
     status:
     {
       message: '不想上学',
