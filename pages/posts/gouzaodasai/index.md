@@ -22,10 +22,10 @@ tags:
 这可是比 APIO 更魔怔的比赛
 
 第一道题，我占今上风，他比不过我，到了第六回合，他就主动认输了。
-![](https://image.smallaw.us.ci//img1/gouzao1.png)
+![](https://image.smallaw.cc.cd/img1/gouzao1.png)
 
 第二道题，他开始占上风，我也不甘势弱，我们僵持了一百多个回合，我因为轻敌，被他击败了。
-![](https://image.smallaw.us.ci//img1/gouzao2.png)
+![](https://image.smallaw.cc.cd//img1/gouzao2.png)
 
 从那时开始，我就不轻敌了，我认真研究他的套路，看了看 P11036 ，于是我总结出了一种方案。
 

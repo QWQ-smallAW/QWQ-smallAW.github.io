@@ -104,6 +104,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/iamge-bed-using-github+cloudflare/': RouteRecordInfo<
+      '/posts/iamge-bed-using-github+cloudflare/',
+      '/posts/iamge-bed-using-github+cloudflare',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/noip2025qwq/': RouteRecordInfo<
       '/posts/noip2025qwq/',
       '/posts/noip2025qwq',
@@ -208,6 +215,12 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/gouzaodasai/index.md': {
       routes:
         | '/posts/gouzaodasai/'
+      views:
+        | never
+    }
+    'pages/posts/iamge-bed-using-github+cloudflare/index.md': {
+      routes:
+        | '/posts/iamge-bed-using-github+cloudflare/'
       views:
         | never
     }
