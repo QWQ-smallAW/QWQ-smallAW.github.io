@@ -5,7 +5,7 @@ updated: 2025-08-28
 categories: Linux
 tags:
   - 虚拟机
-  - linux
+  - Linux
 top: 1
 ---
 
