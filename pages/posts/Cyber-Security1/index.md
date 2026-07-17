@@ -27,3 +27,5 @@ tags:
 ![](https://image.smallaw.cc.cd//img1/cp1-1.png)
 
 于是进过一番熟练的操作，成功的在我的 Vmware 上安装了一个Kali Linux 虚拟机。
+
+![](https://image.smallaw.cc.cd//img1/cp1-2.png)
