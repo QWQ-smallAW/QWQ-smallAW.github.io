@@ -12,8 +12,8 @@ export default defineSiteConfig({
     avatar: 'https://image.smallaw.cc.cd//img1/b_c92fe7c5e99e7b2c5e79833fec5019fc.jpg',
     status:
     {
-      message: '不想上学',
-      emoji: '😒',
+      message: '暑假',
+      emoji: '👍',
     }
   },
   description: '渊林の小站 - 记录生活点滴',
