@@ -1,0 +1,19 @@
+{
+    name : '许晨林' , class : 'G111' , name2: "smallAW" ,
+    description : "爱打音游" ,
+    avatar: "/images/avatar/cat.png" , 
+    contact : [
+        {
+            svg: "home" , information: "blog" , link: "https://smallaw.cc.cd/"
+        } ,
+        {
+            svg: "qq" , information: "1345920856" , copy: true
+        } ,
+        {
+            svg: "github" , information: "github" , link: "https://github.com/QWQ-smallAW"
+        } ,
+        {
+            svg: "bilibili", information: "B站账号", link: "https://space.bilibili.com/1803576984"
+        }
+    ]
+} ,
