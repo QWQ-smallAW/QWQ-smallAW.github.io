@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>渊林の小站</title>
+        <link>https://smallawqwq.github.io/</link>
+        <description>渊林の小站 - 记录生活点滴</description>
+        <lastBuildDate>Mon, 03 Aug 2026 07:15:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>渊林の小站</title>
+            <url>https://image.smallaw.cc.cd//img1/b_c92fe7c5e99e7b2c5e79833fec5019fc.jpg</url>
+            <link>https://smallawqwq.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2026 © 渊林</copyright>
+        <atom:link href="https://smallawqwq.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[网络安全学习日记5：网站漏洞之命令执行]]></title>
+            <link>https://smallawqwq.github.io/posts/Cyber-Security5/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/Cyber-Security5/index</guid>
+            <pubDate>Sat, 01 Aug 2026 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>这个还挺好理解的</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/Cyber-Security5/index" target="_blank">https://smallawqwq.github.io/posts/Cyber-Security5/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[网络安全学习日记4：DVWA靶场的搭建]]></title>
+            <link>https://smallawqwq.github.io/posts/Cyber-Security4/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/Cyber-Security4/index</guid>
+            <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>DVWA(Damn Vulnerable Web Application)一个用来进行安全脆弱性鉴定的PHP/MySQL Web 应用，旨在为安全专业人员测试自己的专业技能和工具提供合法的环境，帮助web开发者更好的理解web应用安全防范的过程。</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/Cyber-Security4/index" target="_blank">https://smallawqwq.github.io/posts/Cyber-Security4/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[网络安全学习日记3：最基础的绕过杀毒软件的方法]]></title>
+            <link>https://smallawqwq.github.io/posts/Cyber-Security3/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/Cyber-Security3/index</guid>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>其实大多都已经失效了。</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/Cyber-Security3/index" target="_blank">https://smallawqwq.github.io/posts/Cyber-Security3/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[网络安全学习日记2：使用 msfvenom 生成木马远程控制电脑]]></title>
+            <link>https://smallawqwq.github.io/posts/Cyber-Security2/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/Cyber-Security2/index</guid>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我去好厉害</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/Cyber-Security2/index" target="_blank">https://smallawqwq.github.io/posts/Cyber-Security2/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[网络安全学习日记1：安装Kali]]></title>
+            <link>https://smallawqwq.github.io/posts/Cyber-Security1/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/Cyber-Security1/index</guid>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>一个暑假能入门网络安全吗？</p>
+<p>应该是不能（</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/Cyber-Security1/index" target="_blank">https://smallawqwq.github.io/posts/Cyber-Security1/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[【实战】利用 Github + Cloudflare 搭建自己的图床]]></title>
+            <link>https://smallawqwq.github.io/posts/iamge-bed-using-github+cloudflare/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/iamge-bed-using-github+cloudflare/index</guid>
+            <pubDate>Sun, 05 Apr 2026 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>首先，你得准备一个 <a href="www.github.com">Github</a> 和一个 <a href="https://dash.cloudflare.com/">Cloudflare</a> 账号</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/iamge-bed-using-github+cloudflare/index" target="_blank">https://smallawqwq.github.io/posts/iamge-bed-using-github+cloudflare/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[NOIP2025 FJ代码迷惑行为大赏]]></title>
+            <link>https://smallawqwq.github.io/posts/noip2025qwq/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/noip2025qwq/index</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>NOIP2025 FJ代码迷惑行为大赏</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/noip2025qwq/index" target="_blank">https://smallawqwq.github.io/posts/noip2025qwq/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[别样的构造大赛]]></title>
+            <link>https://smallawqwq.github.io/posts/gouzaodasai/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/gouzaodasai/index</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>一天，矩阵群给我打来电话。他说：“你敢不敢和我举行 OI 比赛？”</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/gouzaodasai/index" target="_blank">https://smallawqwq.github.io/posts/gouzaodasai/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[适用于 Linux 的 Windows 子系统（WSL）安装教程]]></title>
+            <link>https://smallawqwq.github.io/posts/wsl1/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/wsl1/index</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>如果你依赖着 Windows 上丰富的游戏与软件，但同时又是个程序员，得装个 Linux 为了搞开发，又不想耗费大量储存弄双系统，请看看这篇博客。</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/wsl1/index" target="_blank">https://smallawqwq.github.io/posts/wsl1/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+        <item>
+            <title><![CDATA[Vmware安装包的下载]]></title>
+            <link>https://smallawqwq.github.io/posts/vmware/index</link>
+            <guid isPermaLink="false">https://smallawqwq.github.io/posts/vmware/index</guid>
+            <pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>现在环境也是好起来了，VMware Workstation都可以免费使用了。</p>
+<p>只是。。。想下载可能会有点麻烦。</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/vmware/index" target="_blank">https://smallawqwq.github.io/posts/vmware/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (渊林)</author>
+        </item>
+    </channel>
+</rss>
