@@ -97,6 +97,41 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/Cyber-Security1/': RouteRecordInfo<
+      '/posts/Cyber-Security1/',
+      '/posts/Cyber-Security1',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/Cyber-Security2/': RouteRecordInfo<
+      '/posts/Cyber-Security2/',
+      '/posts/Cyber-Security2',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/Cyber-Security3/': RouteRecordInfo<
+      '/posts/Cyber-Security3/',
+      '/posts/Cyber-Security3',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/Cyber-Security4/': RouteRecordInfo<
+      '/posts/Cyber-Security4/',
+      '/posts/Cyber-Security4',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/Cyber-Security5/': RouteRecordInfo<
+      '/posts/Cyber-Security5/',
+      '/posts/Cyber-Security5',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/gouzaodasai/': RouteRecordInfo<
       '/posts/gouzaodasai/',
       '/posts/gouzaodasai',
@@ -209,6 +244,36 @@ declare module 'vue-router/auto-routes' {
     'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_b8aac48cfe0a00ef180c350c958dd5a3/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
       routes:
         | '/posts/'
+      views:
+        | never
+    }
+    'pages/posts/Cyber-Security1/index.md': {
+      routes:
+        | '/posts/Cyber-Security1/'
+      views:
+        | never
+    }
+    'pages/posts/Cyber-Security2/index.md': {
+      routes:
+        | '/posts/Cyber-Security2/'
+      views:
+        | never
+    }
+    'pages/posts/Cyber-Security3/index.md': {
+      routes:
+        | '/posts/Cyber-Security3/'
+      views:
+        | never
+    }
+    'pages/posts/Cyber-Security4/index.md': {
+      routes:
+        | '/posts/Cyber-Security4/'
+      views:
+        | never
+    }
+    'pages/posts/Cyber-Security5/index.md': {
+      routes:
+        | '/posts/Cyber-Security5/'
       views:
         | never
     }

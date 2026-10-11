@@ -1,6 +1,8 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
-// import { addonWaline } from 'valaxy-addon-waline'
+// import { addonWaline } from 'valaxy-addon-w
+import { addonTwikoo } from 'valaxy-addon-twikoo'
+
 
 // add icons what you will need
 const safelist = [
@@ -70,11 +72,13 @@ export default defineValaxyConfig<UserThemeConfig>({
   unocss: { safelist },
 
   siteConfig: {
-    // 启用评论
     comment: {
-      enable: false
+      enable: true,
     },
   },
+  addons: [
+    addonTwikoo({envId: 'https://smallaw-twikoo.vercel.app',}),
+  ],
   // 设置 valaxy-addon-waline 配置项
   // addons: [
   //   addonWaline({

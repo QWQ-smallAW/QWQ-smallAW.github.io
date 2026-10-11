@@ -11,6 +11,9 @@ importers:
       valaxy:
         specifier: 0.28.4
         version: 0.28.4(@babel/parser@7.29.2)(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)(@nuxt/kit@3.21.2(magicast@0.5.2))(@types/markdown-it@14.1.2)(@types/node@24.1.0)(@vue/compiler-dom@3.5.32)(@vue/compiler-sfc@3.5.32)(axios@1.14.0)(eslint@9.31.0(jiti@2.6.1))(postcss@8.5.8)(rollup@4.45.1)(terser@5.43.1)(typescript@6.0.2)(yaml@2.8.3)
+      valaxy-addon-twikoo:
+        specifier: ^0.0.4
+        version: 0.0.4(valaxy@0.28.4(@babel/parser@7.29.2)(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)(@nuxt/kit@3.21.2(magicast@0.5.2))(@types/markdown-it@14.1.2)(@types/node@24.1.0)(@vue/compiler-dom@3.5.32)(@vue/compiler-sfc@3.5.32)(axios@1.14.0)(eslint@9.31.0(jiti@2.6.1))(postcss@8.5.8)(rollup@4.45.1)(terser@5.43.1)(typescript@6.0.2)(yaml@2.8.3))
       valaxy-addon-waline:
         specifier: ^0.2.1
         version: 0.2.1(typescript@6.0.2)(valaxy@0.28.4(@babel/parser@7.29.2)(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)(@nuxt/kit@3.21.2(magicast@0.5.2))(@types/markdown-it@14.1.2)(@types/node@24.1.0)(@vue/compiler-dom@3.5.32)(@vue/compiler-sfc@3.5.32)(axios@1.14.0)(eslint@9.31.0(jiti@2.6.1))(postcss@8.5.8)(rollup@4.45.1)(terser@5.43.1)(typescript@6.0.2)(yaml@2.8.3))
@@ -3812,6 +3815,11 @@ packages:
   uuid@11.1.0:
     resolution: {integrity: sha512-0/A9rDy9P7cJ+8w1c9WD9V//9Wj15Ce2MPz8Ri6032usz+NfePxx5AcN3bN+r6ZL6jEo066/yNYB3tn4pQEx+A==}
     hasBin: true
+
+  valaxy-addon-twikoo@0.0.4:
+    resolution: {integrity: sha512-HeifKvvrrRfW+Z0qmrrNEm6nkFFXPyk2S5RP+i961m7pSJjhsr3NRzVjlku3J6PA5FfbqDk0OL1wUmeKbjImfw==}
+    peerDependencies:
+      valaxy: '>=0.22'
 
   valaxy-addon-waline@0.2.1:
     resolution: {integrity: sha512-A95cnjyAsdypP/QJWIYbfqPyCOhGeMcbFfqSZnJxdAutUdgHH3gQBRrUM6G+/4KR6YHYmk2thNrpGRlGC6CWLg==}
@@ -8212,6 +8220,10 @@ snapshots:
       punycode: 2.3.1
 
   uuid@11.1.0: {}
+
+  valaxy-addon-twikoo@0.0.4(valaxy@0.28.4(@babel/parser@7.29.2)(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)(@nuxt/kit@3.21.2(magicast@0.5.2))(@types/markdown-it@14.1.2)(@types/node@24.1.0)(@vue/compiler-dom@3.5.32)(@vue/compiler-sfc@3.5.32)(axios@1.14.0)(eslint@9.31.0(jiti@2.6.1))(postcss@8.5.8)(rollup@4.45.1)(terser@5.43.1)(typescript@6.0.2)(yaml@2.8.3)):
+    dependencies:
+      valaxy: 0.28.4(@babel/parser@7.29.2)(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)(@nuxt/kit@3.21.2(magicast@0.5.2))(@types/markdown-it@14.1.2)(@types/node@24.1.0)(@vue/compiler-dom@3.5.32)(@vue/compiler-sfc@3.5.32)(axios@1.14.0)(eslint@9.31.0(jiti@2.6.1))(postcss@8.5.8)(rollup@4.45.1)(terser@5.43.1)(typescript@6.0.2)(yaml@2.8.3)
 
   valaxy-addon-waline@0.2.1(typescript@6.0.2)(valaxy@0.28.4(@babel/parser@7.29.2)(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)(@nuxt/kit@3.21.2(magicast@0.5.2))(@types/markdown-it@14.1.2)(@types/node@24.1.0)(@vue/compiler-dom@3.5.32)(@vue/compiler-sfc@3.5.32)(axios@1.14.0)(eslint@9.31.0(jiti@2.6.1))(postcss@8.5.8)(rollup@4.45.1)(terser@5.43.1)(typescript@6.0.2)(yaml@2.8.3)):
     dependencies:

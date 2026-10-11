@@ -17,3 +17,4 @@
         }
     ]
 } ,
+mongodb+srv://smallaw0731_db_user:SjMCfBLFiIkNuVZb@cluster0.5gr0hj2.mongodb.net/?appName=Cluster0
