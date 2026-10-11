@@ -77,7 +77,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
   },
   addons: [
-    addonTwikoo({envId: 'https://smallaw-twikoo.vercel.app',}),
+    addonTwikoo({envId: 'https://smallaw-twikoo.netlify.app',}),
   ],
   // 设置 valaxy-addon-waline 配置项
   // addons: [
