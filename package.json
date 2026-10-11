@@ -15,7 +15,7 @@
     "valaxy": "1.1.0",
     "valaxy-addon-twikoo": "^0.0.4",
     "valaxy-addon-waline": "^0.2.1",
-    "valaxy-theme-yun": "0.28.4"
+    "valaxy-theme-yun": "1.1.0"
   },
   "devDependencies": {
     "typescript": "^6.0.2"
