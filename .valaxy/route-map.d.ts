@@ -97,6 +97,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/CVE-2026-85046/': RouteRecordInfo<
+      '/posts/CVE-2026-85046/',
+      '/posts/CVE-2026-85046',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/Cyber-Security1/': RouteRecordInfo<
       '/posts/Cyber-Security1/',
       '/posts/Cyber-Security1',
@@ -187,13 +194,13 @@ declare module 'vue-router/auto-routes' {
    * @internal
    */
   export interface _RouteFileInfoMap {
-    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_b8aac48cfe0a00ef180c350c958dd5a3/node_modules/valaxy-theme-yun/pages/index.vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_9abff5ccc775f284e6766875e128bb89/node_modules/valaxy-theme-yun/pages/index.vue': {
       routes:
         | '/'
       views:
         | never
     }
-    'node_modules/.pnpm/valaxy@0.28.4_@babel+parser_a3275d8000af2a99eec7439dea80efcf/node_modules/valaxy/client/pages/[...path].vue': {
+    'node_modules/.pnpm/valaxy@1.1.0_@devframes+age_d87805aaa91fb4da44bfca2d47ac9b0a/node_modules/valaxy/client/pages/[...path].vue': {
       routes:
         | '/[...path]'
       views:
@@ -235,15 +242,21 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_b8aac48cfe0a00ef180c350c958dd5a3/node_modules/valaxy-theme-yun/pages/page/[page].vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_9abff5ccc775f284e6766875e128bb89/node_modules/valaxy-theme-yun/pages/page/[page].vue': {
       routes:
         | '/page/[page]'
       views:
         | never
     }
-    'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_b8aac48cfe0a00ef180c350c958dd5a3/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_9abff5ccc775f284e6766875e128bb89/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
       routes:
         | '/posts/'
+      views:
+        | never
+    }
+    'pages/posts/CVE-2026-85046/index.md': {
+      routes:
+        | '/posts/CVE-2026-85046/'
       views:
         | never
     }
