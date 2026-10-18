@@ -6,7 +6,6 @@ categories: Linux
 tags:
   - 虚拟机
   - Linux
-top: 1
 ---
 
 如果你依赖着 Windows 上丰富的游戏与软件，但同时又是个程序员，得装个 Linux 为了搞开发，又不想耗费大量储存弄双系统，请看看这篇博客。
