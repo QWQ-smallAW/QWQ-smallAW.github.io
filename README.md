@@ -1,10 +1,17 @@
+<<<<<<< HEAD
 # My Valaxy blog
 
 Follow the [Getting Started guide](https://valaxy.site/guide/getting-started) ([中文](https://valaxy.site/zh/guide/getting-started)). Requires Node.js `>=22.12.0` and pnpm `>=10.26.0`. Keep `pnpm-workspace.yaml`, which includes dependency build script permissions for installation.
+=======
+# create-valaxy
+
+Example: [valaxy.site](https://valaxy.site)
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
 
 ## Usage
 
 ```bash
+<<<<<<< HEAD
 pnpm install
 pnpm dev
 ```
@@ -46,6 +53,26 @@ pnpm serve
 The build prerenders pages into `dist/`. Open the preview address (usually `http://localhost:4173/`) and check the home page and `/posts/first-post`, including after a refresh. The corresponding files are `dist/index.html` and `dist/posts/first-post.html`.
 
 Run `pnpm build` again after editing; `pnpm serve` only serves existing output. See the [deployment guide](https://valaxy.site/guide/deploy) to deploy `dist/`.
+=======
+# install
+npm i
+# or pnpm i
+
+# start
+npm run dev
+# or pnpm dev
+```
+
+See `http://localhost:4859/`, have fun!
+
+### Config
+
+Modify `valaxy.config.ts` to custom your blog.
+
+English & Chinese Docs is coming!
+
+> Wait a minute.
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
 
 ### Docker
 
@@ -61,7 +88,11 @@ In most cases, you only need to work in the `pages` folder.
 
 - `pages`: your all pages
   - `posts`: write your posts here, will be counted as posts
+<<<<<<< HEAD
 - `styles`: override theme styles, `index.ts`/`index.scss`/`index.css` will be loaded automatically
+=======
+- `styles`: override theme styles, `index.scss`/`vars.csss`/`index.css` will be loaded automatically
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
 - `components`: custom your vue components (will be loaded automatically)
 - `layouts`: custom layouts (use it by `layout: xxx` in md)
 - `locales`: custom i18n

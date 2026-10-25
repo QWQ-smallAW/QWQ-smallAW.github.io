@@ -1,7 +1,14 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
+<<<<<<< HEAD
 import { addonTwikoo } from 'valaxy-addon-twikoo'
 
+=======
+// import { addonWaline } from 'valaxy-addon-w
+import { addonTwikoo } from 'valaxy-addon-twikoo'
+
+
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',

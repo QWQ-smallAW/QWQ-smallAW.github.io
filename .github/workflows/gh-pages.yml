@@ -6,8 +6,11 @@ on:
       # The branch where the project source code resides
       # 项目源代码所在的分支
       - main
+<<<<<<< HEAD
       - master
       - valaxy
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
 
 jobs:
   build:

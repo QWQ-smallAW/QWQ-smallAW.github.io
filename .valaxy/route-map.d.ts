@@ -14,6 +14,7 @@ import type {
   ParamValueZeroOrMore,
   ParamValueZeroOrOne,
 } from 'vue-router'
+<<<<<<< HEAD
 import type {
   _ExtractParamParserType,
 } from 'vue-router/experimental'
@@ -23,6 +24,13 @@ declare module 'vue-router' {
     _ParamParsers: {}
     RouteNamedMap: import('vue-router/auto-routes').RouteNamedMap
     _RouteFileInfoMap: import('vue-router/auto-routes')._RouteFileInfoMap
+=======
+
+declare module 'vue-router' {
+  interface TypesConfig {
+    ParamParsers:
+      | never
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
   }
 }
 
@@ -198,181 +206,257 @@ declare module 'vue-router/auto-routes' {
    * @internal
    */
   export interface _RouteFileInfoMap {
+<<<<<<< HEAD
     'node_modules/.pnpm/valaxy-theme-yun@1.2.0_magi_19e81232e3e6b80918de7c997de5b277/node_modules/valaxy-theme-yun/pages/index.vue': {
+=======
+    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_9abff5ccc775f284e6766875e128bb89/node_modules/valaxy-theme-yun/pages/index.vue': {
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
       routes:
         | '/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
     }
     'node_modules/.pnpm/valaxy@1.2.0_@devframes+age_990828ef9df01392db5b63758e9ae459/node_modules/valaxy/client/pages/[...path].vue': {
+=======
+    }
+    'node_modules/.pnpm/valaxy@1.1.0_@devframes+age_d87805aaa91fb4da44bfca2d47ac9b0a/node_modules/valaxy/client/pages/[...path].vue': {
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
       routes:
         | '/[...path]'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | 'path'
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/404.md': {
       routes:
         | '/404'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/about/index.md': {
       routes:
         | '/about/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/about/site.md': {
       routes:
         | '/about/site'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/archives/index.md': {
       routes:
         | '/archives/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/categories/index.md': {
       routes:
         | '/categories/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/links/index.md': {
       routes:
         | '/links/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
     }
     'node_modules/.pnpm/valaxy-theme-yun@1.2.0_magi_19e81232e3e6b80918de7c997de5b277/node_modules/valaxy-theme-yun/pages/page/[page].vue': {
+=======
+    }
+    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_9abff5ccc775f284e6766875e128bb89/node_modules/valaxy-theme-yun/pages/page/[page].vue': {
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
       routes:
         | '/page/[page]'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | 'page'
     }
     'node_modules/.pnpm/valaxy-theme-yun@1.2.0_magi_19e81232e3e6b80918de7c997de5b277/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
+=======
+    }
+    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_9abff5ccc775f284e6766875e128bb89/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
       routes:
         | '/posts/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/CVE-2026-85046/index.md': {
       routes:
         | '/posts/CVE-2026-85046/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/Cyber-Security1/index.md': {
       routes:
         | '/posts/Cyber-Security1/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/Cyber-Security2/index.md': {
       routes:
         | '/posts/Cyber-Security2/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/Cyber-Security3/index.md': {
       routes:
         | '/posts/Cyber-Security3/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/Cyber-Security4/index.md': {
       routes:
         | '/posts/Cyber-Security4/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/Cyber-Security5/index.md': {
       routes:
         | '/posts/Cyber-Security5/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/gouzaodasai/index.md': {
       routes:
         | '/posts/gouzaodasai/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/iamge-bed-using-github+cloudflare/index.md': {
       routes:
         | '/posts/iamge-bed-using-github+cloudflare/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/noip2025qwq/index.md': {
       routes:
         | '/posts/noip2025qwq/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/vmware/index.md': {
       routes:
         | '/posts/vmware/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/posts/wsl1/index.md': {
       routes:
         | '/posts/wsl1/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
     'pages/tags/index.md': {
       routes:
         | '/tags/'
       views:
         | never
+<<<<<<< HEAD
       pathParamNames:
         | never
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     }
   }
 

@@ -5,15 +5,22 @@
     "lib": ["DOM", "ESNext"],
     "baseUrl": ".",
     "module": "ESNext",
+<<<<<<< HEAD
     "moduleResolution": "bundler",
+=======
+    "moduleResolution": "node",
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     "paths": {
       "~/*": ["./*"]
     },
     "resolveJsonModule": true,
+<<<<<<< HEAD
     "types": [
       "vite/client",
       "valaxy/client"
     ],
+=======
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     "strict": true,
     "strictNullChecks": true,
     "noUnusedLocals": true,

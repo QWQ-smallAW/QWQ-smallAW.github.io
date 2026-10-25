@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "smallaw-blog",
   "type": "module",
   "version": "0.0.0",
@@ -8,6 +9,14 @@
   },
   "scripts": {
     "build": "valaxy build --ssg",
+=======
+  "name": "valaxy-test-blog",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:ssg",
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
     "build:spa": "valaxy build",
     "build:ssg": "valaxy build --ssg",
     "dev": "valaxy",
@@ -15,6 +24,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "valaxy": "1.2.0",
     "valaxy-addon-twikoo": "^0.0.4",
     "valaxy-theme-yun": "1.2.0",
@@ -24,5 +34,14 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "vite": "^8.3.0"
+=======
+    "valaxy": "1.1.0",
+    "valaxy-addon-twikoo": "^0.0.4",
+    "valaxy-addon-waline": "^0.2.1",
+    "valaxy-theme-yun": "1.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2"
+>>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
   }
 }
