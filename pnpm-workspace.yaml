@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pnpm >=10.26 stores dependency build permissions here.
 allowBuilds:
   '@parcel/watcher': false
@@ -8,9 +7,3 @@ allowBuilds:
 publicHoistPattern:
   - '*'
 strictPeerDependencies: false
-=======
-allowBuilds:
-  '@parcel/watcher': false
-  esbuild: false
-  vue-demi: true
->>>>>>> 303165339c272eb1061b0fb35b127283da98c4ea
