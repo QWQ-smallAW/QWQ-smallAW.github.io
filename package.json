@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "valaxy": "1.2.0",
+    "valaxy-addon-twikoo": "^0.0.4",
     "valaxy-theme-yun": "1.2.0",
     "vue": "^3.5.41",
     "vue-router": "^5.0.0"
